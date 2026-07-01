@@ -98,6 +98,8 @@ The AI may sometimes make incorrect predictions, and users must remain free to m
 
 Because the application processes sensitive emotional information, protecting user privacy and securely storing personal data would be essential.
 
+False positives and false negatives are inevitable, therefore the AI should always support rather than make decisions for the user.
+
 ---
 
 ## What next?
@@ -112,11 +114,12 @@ Future versions could include:
 * Personalized long-term recovery plans
 
 The long-term vision is to build an AI assistant that helps people prevent relapse by offering emotional support before gambling happens instead of reacting afterward.
+In the future, the AI could become a personalized recovery companion that continuously learns healthy coping strategies together with the user while respecting privacy and user autonomy.
 
 ---
 
 ## Acknowledgments
 
-* Inspired by my personal experiences observing the effects of gambling addiction.
+* Inspired by personal observations of how gambling addiction affects individuals and families.
 * Building AI course by the University of Helsinki and MinnaLearn.
 * This project is a conceptual proposal created as the final project for the Building AI course.
