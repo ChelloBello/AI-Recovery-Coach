@@ -124,3 +124,4 @@ The long-term vision is to build an AI companion that not only helps prevent rel
 * Building AI course by the University of Helsinki and MinnaLearn.
 * This project is a conceptual proposal created as the final project for the Building AI course.
 * This project focuses on supporting recovery, not replacing professional care or making decisions on behalf of users.
+* to help people rediscover hope
