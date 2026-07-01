@@ -7,7 +7,7 @@ Final project for the Building AI course
 
 ## Summary
 
-AI Recovery Coach is an AI-powered companion designed to help people recover from gambling addiction. Instead of simply blocking gambling websites, it recognizes emotional and behavioral patterns that may lead to gambling and offers personalized support before a relapse happens.
+AI Recovery Coach is an AI-powered companion designed to help people recover from gambling addiction. Instead of simply blocking gambling websites, it recognizes emotional and behavioral patterns associated with gambling urges and provides personalized support before a relapse occurs.
 
 ---
 
@@ -15,7 +15,7 @@ AI Recovery Coach is an AI-powered companion designed to help people recover fro
 
 Gambling addiction affects millions of people worldwide and often harms not only the gambler but also their family and friends.
 
-Growing up, I saw how gambling addiction can destroy lives. This inspired me to think about a different approach. Most existing applications focus on blocking gambling websites or limiting access to casinos. While these tools are useful, they often intervene too late.
+Growing up, I witnessed how gambling addiction affected not only gamblers but also their families and loved ones. This inspired me to think about a different approach. Most existing applications focus on blocking gambling websites or limiting access to casinos. While these tools are useful, they often intervene too late.
 
 The real problem usually starts long before someone opens a gambling website. Common triggers include:
 
@@ -113,13 +113,14 @@ Future versions could include:
 * Financial budgeting tools
 * Personalized long-term recovery plans
 
-The long-term vision is to build an AI assistant that helps people prevent relapse by offering emotional support before gambling happens instead of reacting afterward.
-In the future, the AI could become a personalized recovery companion that continuously learns healthy coping strategies together with the user while respecting privacy and user autonomy.
+The long-term vision is to build an AI companion that not only helps prevent relapse, but also supports people in rebuilding healthier habits, stronger relationships, and a better quality of life. The goal is not simply to stop gambling, but to help people rediscover hope during some of the most difficult moments of recovery.
 
 ---
 
 ## Acknowledgments
 
+
 * Inspired by personal observations of how gambling addiction affects individuals and families.
 * Building AI course by the University of Helsinki and MinnaLearn.
 * This project is a conceptual proposal created as the final project for the Building AI course.
+* This project focuses on supporting recovery, not replacing professional care or making decisions on behalf of users.
